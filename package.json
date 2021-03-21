@@ -1,0 +1,18 @@
+{
+  "name": "my-aplicacion",
+  "version": "0.0.0",
+  "description": "Webcomponent my-aplicacion following open-wc recommendations",
+  "author": "my-aplicacion",
+  "license": "MIT",
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "dependencies": {
+    "component-filter": "github:adrianmircor/app-demo#1.2",
+    "lit-element": "^2.4.0",
+    "lit-html": "^1.3.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.10"
+  }
+}
